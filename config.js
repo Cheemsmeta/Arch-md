@@ -13,10 +13,10 @@ global.botname = ["Arch Md"] // don't change
 global.simbol = "♘" // don't change 
 global.typeMenu = 'v1' //don't change 
 global.anticall = false // your choice 
-global.xprefix = ''' // your desired prefix
+global.xprefix = '.' // your desired prefix
 //======= Don't change =======\\
 
-global.prefa = [''']
+global.prefa = ['.']
 
 //======= Don't touch =======\\
 global.msg = {
